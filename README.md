@@ -1,4 +1,5 @@
 # Kalkulator
 
 Nauka GITa
-zmiana
+
+Pierwsza gałąź
