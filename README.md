@@ -1,3 +1,4 @@
-#Kalkulator
+# Kalkulator
 
 Nauka GITa
+zmiana
