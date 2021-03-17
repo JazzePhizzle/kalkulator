@@ -7,3 +7,5 @@ Pierwszy commit do gałęzi testowej
 Trudnoooo tak razem być nam ze sobą
 
 Dzień dobry gałąź_test2
+
+Bez siebie nie jest lżej
