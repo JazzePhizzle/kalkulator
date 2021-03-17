@@ -1,4 +1,4 @@
-# Kalkulator
+# Kalkulator - instrukcja obsługi
 
 Nauka GITa
 
